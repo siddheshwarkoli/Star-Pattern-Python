@@ -1,2 +1,2 @@
 # Star-Pattern-Python-
-Various Star pattern program using python language
+Various Star pattern program using python language.
